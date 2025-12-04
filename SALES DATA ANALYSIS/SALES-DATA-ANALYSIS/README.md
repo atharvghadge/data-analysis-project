@@ -20,7 +20,7 @@ This project analyzes a real-world online sales dataset using Python. It focuses
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/umarbasha-ai/SALES-DATA-ANALYSIS
+   git clone https://github.com/atharvghadge/data-analysis-project/tree/main
    cd SALES-DATA-ANALYSIS
 2. Install dependencies:
    ```bash
@@ -28,3 +28,4 @@ This project analyzes a real-world online sales dataset using Python. It focuses
 3. Run the analysis:
    ```bash
    python src/sales-data-analysis.py
+
